@@ -6,7 +6,7 @@
 Iniciativa Kubernetes
 </h1>
 
-<p align="center">Vamos aprender Docker e Kubernetes.</p>
+<p align="center">Vamos aprender Docker e Kubernetes</p>
 
 
 ## Technologies
